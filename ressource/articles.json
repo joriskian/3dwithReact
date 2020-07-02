@@ -1,0 +1,9 @@
+{
+    "articles": "Une information sur les differents monuments",
+    "monuments":[
+        {"nom":"monument numero 1",
+        "description":"lorem ipsum ",
+        "img":"image du monument"}
+    ]
+
+}
